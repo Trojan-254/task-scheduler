@@ -1,5 +1,8 @@
 # Rust Task Scheduler
 
+![image](https://github.com/user-attachments/assets/36012e8f-d855-49b7-b0c3-3a44d014123a)
+
+
 A robust, asynchronous task scheduling system built in Rust using Tokio. This scheduler provides a flexible framework for distributing and executing tasks across multiple workers, with support for both shell commands and file processing operations.
 
 ## Features
