@@ -43,7 +43,7 @@ The system consists of four main components:
 1. Add the dependency to your `Cargo.toml`:
 ```toml
 [dependencies]
-task-scheduler = { git = "https://github.com/yourusername/task-scheduler" }
+task-scheduler = { git = "https://github.com/Trojan-254/task-scheduler" }
 ```
 
 2. Install required dependencies:
